@@ -68,7 +68,7 @@ VITE_BACKEND_URL=your_backend_url
 RAZORPAY_KEY_ID=your_razorpay_key_id
 ```
 
-Create a `.env` file in the **frontend** directory and add:  
+Create a `.env` file in the **admin** directory and add:  
 ```env
 VITE_BACKEND_URL=your_backend_url
 ```
@@ -80,6 +80,12 @@ cd backend
 npm run server
 ```
 #### **Frontend**  
+```bash
+cd frontend
+npm run dev
+```
+
+#### **Admin**  
 ```bash
 cd frontend
 npm run dev
