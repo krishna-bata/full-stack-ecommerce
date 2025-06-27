@@ -3,6 +3,10 @@
 ### **Live Demo:** [Forever eCommerce](https://ecommerce-frontend-roan-sigma.vercel.app/)  
 ### **Admin Panel:** [Forever Admin](https://ecommerce-admin-ashy-three.vercel.app/)  
 
+### **Test Credentials** 
+Email : user.test@gamil.com  
+Password : Test@123
+
 ## **Overview**  
 Forever is a full-stack eCommerce web application built using the MERN stack. It provides users with a seamless shopping experience while offering an admin dashboard to manage products and orders efficiently.
 
