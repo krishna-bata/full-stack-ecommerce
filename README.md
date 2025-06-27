@@ -3,7 +3,7 @@
 ### **Live Demo:** [Forever eCommerce](https://ecommerce-frontend-roan-sigma.vercel.app/)  
 ### **Admin Panel:** [Forever Admin](https://ecommerce-admin-ashy-three.vercel.app/)  
 
-### **Test Credentials** 
+## **Test Credentials** 
 Email : user.test@gmail.com  
 Password : Test@123
 
