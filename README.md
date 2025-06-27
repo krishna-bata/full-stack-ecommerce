@@ -4,7 +4,7 @@
 ### **Admin Panel:** [Forever Admin](https://ecommerce-admin-ashy-three.vercel.app/)  
 
 ### **Test Credentials** 
-Email : user.test@gamil.com  
+Email : user.test@gmail.com  
 Password : Test@123
 
 ## **Overview**  
